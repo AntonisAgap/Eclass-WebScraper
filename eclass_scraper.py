@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from termcolor import colored
 
-url = "https://eclass.uniwa.gr/"
+url = ""
 path = r""
 username = ""
 password = "" 
